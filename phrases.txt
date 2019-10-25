@@ -1,0 +1,28 @@
+Your device has been provisioned for Epic Haiku/Canto and you can now log in.
+
+reviewed request, checked user permissions, checked mdm status, provisioned device and informed user.
+
+You have been granted permission to install Secure Hub and either Epic Haiku or Canto. Please follow each step of the appropriate attached instructions carefully. The application will not work if you miss a step.
+
+Please follow the instructions in the previous email to complete your installation.
+
+Reviewed ticket, sent instructions to user.
+
+An Adobe Creative Cloud license has been granted and instructions have been sent to the user.
+
+Reviewed request, created ticket, sent instructions to user, closed ticket.
+
+We have not heard back from phone/email contact attempts on -----.  Please reply or call the Help Desk if this is still an ongoing issue.
+
+Reviewed and closed ticket with message to requestor.
+
+Your Sharefile account has been created. Please refer to the previous email message for instructions.
+
+Reviewed ticket, checked mdm status, checked user permissions, added user to BYOD group, sent instructions.
+
+We have been unable to reach you by phone regarding _________. Are you still having this issue? Is so what would be a good time and phone number to reach you?
+
+A Sharefile account has been created for you. Please refer to the previous email for instructions and reply if you have any questions.
+
+Checked laptop in, cleaned it, inspected it, removed profiles, put away.
+

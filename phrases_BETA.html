@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+  <textarea rows="4" cols="50" id="phrase1">Your device has been provisioned for Epic Haiku/Canto and you can now log in.</textarea>
+   <button onclick="copyFunction('phrase1')">Copy</button><br>
+
+  <textarea rows="4" cols="50" id="phrase2">Reviewed request, checked user permissions, checked mdm status, provisioned device and informed user.</textarea>
+   <button onclick="copyFunction('phrase2')">Copy</button><br>
+
+<script>
+function copyFunction(id) {
+  var copyText = document.getElementById(id);
+  copyText.select();
+  document.execCommand("copy");
+
+}
+//Written by Dan Hansen
+</script>
+
+</body>
+</html>
